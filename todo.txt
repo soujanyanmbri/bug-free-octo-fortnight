@@ -1,0 +1,11 @@
+• Brute Force
+    Can be done using: burpsuite, wfuzz and hydra
+• Command Execution
+    just on the website 
+• CSRF
+• File Inclusion
+• SQL Injection
+• SQL Injection (Blind)
+• Shell Uploading
+• XSS ( Reflected )
+• XSS ( Stored)
